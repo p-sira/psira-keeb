@@ -12,24 +12,24 @@
 
 ## Layer 2
 
-![layer2](layers/layer2)
+![layer2](https://github.com/p-sira/psira-keeb/blob/main/layers/layer2.png?raw=true)
 
 ## Layer 3
 
-![layer3](layers/layer3)
+![layer3](https://github.com/p-sira/psira-keeb/blob/main/layers/layer3.png?raw=true)
 
 ## Layer 4
 
-![layer4](layers/layer4)
+![layer4](https://github.com/p-sira/psira-keeb/blob/main/layers/layer4.png?raw=true)
 
 ## Layer 5
 
-![layer5](layers/layer5)
+![layer5](https://github.com/p-sira/psira-keeb/blob/main/layers/layer5.png?raw=true)
 
 ## Layer 6
 
-![layer6](layers/layer6)
+![layer6](https://github.com/p-sira/psira-keeb/blob/main/layers/layer6.png?raw=true)
 
 ## Layer 7
 
-![layer7](layers/layer7)
+![layer7](https://github.com/p-sira/psira-keeb/blob/main/layers/layer7.png?raw=true)
